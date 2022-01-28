@@ -18,3 +18,6 @@ In DOSBox, run the following commands to compile and run it:
 1) tasm sudoku.asm
 2) tlink sudoku.obj /t
 3) sudoku
+
+## Quick Demo
+![Quick Demo](Sudoku_Demo.gif)
